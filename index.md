@@ -1,19 +1,17 @@
-## Welcome to GitHub Pages
+## 권경녀 이력서
 
-You can use the [editor on GitHub](https://github.com/imurno1/imurno1.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+안녕하세요, 현재 이화여자대학교에서 공부하고 있는 국어학 박사과정 1학기 권경녀입니다. 세부전공은 형태론 전공입니다. 다년간 국어학을 공부하며 생각한 저의 상상력을 구체적인 형태로 녹여 보고자 합니다. 국어학의 외연을 넓히는 작업에 일조하는 선배 선생님들을 따라 저도 함께하고 싶습니다.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### 소속
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+이화여자대학교, 프리랜서
 
 ```markdown
 Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+# 국어국문학과 국어학 전공 박사과정생
+## 전직 출판사 편집자
+### 프리랜서 교정가
 
 - Bulleted
 - List
